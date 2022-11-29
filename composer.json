@@ -19,7 +19,7 @@
         "laravel/framework": "^7.29",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^2.5",
-        "loilo/fuse": "^3.6",
+        "loilo/fuse": "^6.6",
         "mpdf/mpdf": "^8.0",
         "nesbot/carbon": "^2.44",
         "tymon/jwt-auth": "^1.0"
